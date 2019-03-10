@@ -20,7 +20,7 @@ Per agevolare la scrittura, il consiglio è di utilizzare [Atom](https://atom.io
 > I documenti Markdown avranno tutti allineamento a sinistra.  
 > Una volta esportati, tuttavia, il contenuto potrà essere gestito nei limiti consentiti dal nuovo formato (ad esempio, a valle della conversione da `.md` a `.docx` sarà possibile giustificare il testo).
 
-Ecco un riferimento base per la scrittura in Markdown (ulteriori riferimenti [basici](https://www.markdownguide.org/basic-syntax) o [avanzati](https://www.markdownguide.org/extended-syntax) o [misti]((https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet))):
+Ecco un riferimento base per la scrittura in Markdown (ulteriori riferimenti [basici](https://www.markdownguide.org/basic-syntax) o [avanzati](https://www.markdownguide.org/extended-syntax) o [misti](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)):
 
 # Questo è un titolo
 
